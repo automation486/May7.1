@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18190" started-at="2017-04-24T21:43:45Z" finished-at="2017-04-24T21:44:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18190" started-at="2017-04-24T21:43:45Z" finished-at="2017-04-24T21:44:03Z">
+      <class name="verify.verify">
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:verify.verify@39aeed2f]" name="verifyTitle" duration-ms="18153" started-at="2017-04-24T17:43:45Z" finished-at="2017-04-24T17:44:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- verify.verify -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
